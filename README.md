@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Centinoughty
-- 👀 I’m interested in Problem-Solving and Programming.
-- 🌱 I’m currently learning Web Development and C-programming.
-- 📫 If interested in my projects contact me at centinoughty@gmail.com
-- Visit my website [nadeemsiyam.com](https://nadeemsiyam.com)
+# 👋 Hi!
 
-<!---
-Centinoughty/Centinoughty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software developer who loves Linux, backend development and system design. I enjoy learning how things work and trying out new technologies.
+
+I created this GitHub profile to learn, build and share my work.
+
+I'm always trying to improve, so I'll be happy to recieve any feedback, suggestions, or code reviews that can help me grow.
+
+⭐️ Feel free to explore my repositories and follow me if you find something interesting!
+
+## 🔧 What I like working on?
+
+🐍 Python & Backend Development
+🐧 Linux & System Administration
+🤖 AI/ML & RAG
+🌐 Distributed Systems
+🗄️ Databases
+🔐 Security & Networking
+🐳 Docker & Automation
+
+📫 Find me here
+
+[Portfolio](https://nadeemsiyam.com) • [LinkedIn](https://linkedin.com/in/nadeem-m-siyam) • [GitHub](https://github.com/Centinoughty)
