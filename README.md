@@ -17,6 +17,7 @@ I'm always trying to improve, so I'll be happy to recieve any feedback, suggesti
 - 🗄️ Databases
 - 🔐 Security & Networking
 - 🐳 Docker & Automation
-- 📫 Find me here
+
+## 📫 Find me here
 
 [Portfolio](https://nadeemsiyam.com) • [LinkedIn](https://linkedin.com/in/nadeem-m-siyam) • [GitHub](https://github.com/Centinoughty)
