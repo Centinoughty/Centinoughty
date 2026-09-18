@@ -10,20 +10,13 @@ I'm always trying to improve, so I'll be happy to recieve any feedback, suggesti
 
 ## 🔧 What I like working on?
 
-🐍 Python & Backend Development
-
-🐧 Linux & System Administration
-
-🤖 AI/ML & RAG
-
-🌐 Distributed Systems
-
-🗄️ Databases
-
-🔐 Security & Networking
-
-🐳 Docker & Automation
-
-📫 Find me here
+- 🐍 Python & Backend Development
+- 🐧 Linux & System Administration
+- 🤖 AI/ML & RAG
+- 🌐 Distributed Systems
+- 🗄️ Databases
+- 🔐 Security & Networking
+- 🐳 Docker & Automation
+- 📫 Find me here
 
 [Portfolio](https://nadeemsiyam.com) • [LinkedIn](https://linkedin.com/in/nadeem-m-siyam) • [GitHub](https://github.com/Centinoughty)
